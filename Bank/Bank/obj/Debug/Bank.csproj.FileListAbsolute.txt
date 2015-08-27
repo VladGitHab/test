@@ -1,0 +1,5 @@
+D:\1. ДОКУМЕНТЫ\Visual Studio 2013\Projects\Bank\Bank\bin\Debug\Bank.dll
+D:\1. ДОКУМЕНТЫ\Visual Studio 2013\Projects\Bank\Bank\bin\Debug\Bank.pdb
+D:\1. ДОКУМЕНТЫ\Visual Studio 2013\Projects\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\1. ДОКУМЕНТЫ\Visual Studio 2013\Projects\Bank\Bank\obj\Debug\Bank.dll
+D:\1. ДОКУМЕНТЫ\Visual Studio 2013\Projects\Bank\Bank\obj\Debug\Bank.pdb
